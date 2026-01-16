@@ -10,7 +10,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: 'nexild',
+  base: '/nexild/',
   resolve: {
     alias: {
       // Alias @ to the src directory
