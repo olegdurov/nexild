@@ -1,0 +1,1 @@
+{ "name": "Monexo Invest", "short_name": "Monexo", "icons": [ { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" } ], "theme_color": "#000000", "background_color": "#000000", "display": "standalone" }
