@@ -7,7 +7,6 @@ dist/
 # Local caches
 .vite/
 .cache/
-vite.config.ts.timestamp-*
 
 # Logs
 npm-debug.log*
