@@ -16,7 +16,6 @@ pnpm-debug.log*
 
 # Editor folders
 .vscode/
-.idea/
 
 # OS files
 .DS_Store
