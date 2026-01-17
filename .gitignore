@@ -1,1 +1,5 @@
+node_modules/
 dist/
+.cache/
+.vite/
+vite.config.ts.timestamp-*
